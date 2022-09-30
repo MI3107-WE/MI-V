@@ -73,7 +73,7 @@ Contoh struktur direktori sebagai *berikut:*
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;"
         alt="yysofiyan" /><br /><sub><b>yysofiyan</b></sub></a><br /><a</a></td>
-    <td align="center"><a href="https://github.com/SI4019/SIBW-B/graphs/contributors"><img src="https://contrib.rocks/image?repo=SI4019/SIBW-B" /></a>
+    <td align="center"><a href="https://github.com/MI3107-WE/MI-V/graphs/contributors"><img src="https://contrib.rocks/image?repo=MI3107-WE/MI-V" /></a>
   </tr>
 </table>
 

@@ -1,0 +1,19 @@
+Bukti Bukti Sukses Instalasi Laravel Daffa Refa Ismanto
+UTS Rekayasa Web 
+
+
+
+$ php artisan serve
+Starting Laravel development server: http://127.0.0.1:8000
+[Thu Nov 10 22:48:25 2022] PHP 7.4.28 Development Server (http://127.0.0.1:8000) started
+
+
+
+
+
+$ git log
+commit 26e790b6ee029f69ab3a78f090b56beafb6a00b1 (HEAD -> master)
+Author: [daffa98] <[a1.2000001@mhs.stmik-sumedang.ac.id]>
+Date:   Thu Nov 10 22:29:03 2022 +0700
+
+    commit uts daffa instalasi laravel1
